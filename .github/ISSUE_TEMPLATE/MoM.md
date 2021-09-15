@@ -1,5 +1,5 @@
 ---
-name: Meetng Notes
+name: Meeting Notes
 about: Use this template to to write the minutes of meetings
 title: "[Meeting Notes] "
 labels: MoM
